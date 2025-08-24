@@ -1,0 +1,12 @@
+@font-face {
+    /* fuentes */
+    font-family:play;
+    src: url(font/PlaywriteMXGuides-Regular.ttf)format('truetype');
+    font-weight: 100;
+}
+@font-face {
+    /* fuentes */
+    font-family:nota;
+    src: url(font/NotoSansWarangCiti-Regular.ttf)format('truetype');
+    font-weight: 500;
+}

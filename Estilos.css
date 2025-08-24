@@ -1,0 +1,32 @@
+.primero{
+    color: red;
+    /* letra */
+    font-family:play;
+    /* tamaño */
+    font-size: 19px;
+    /* tipografia */
+    font-weight: 100;
+    /* letra_inplinada */
+    font-style: italic;
+    /* posicion */
+    text-align: justify;
+    /* espacio */
+    line-height: 1.5;
+    /* minuscula_mayuscula */
+    text-transform: capitalize;
+}
+.texto_subrayado{
+    text-decoration: underline;
+    font-weight: bold;
+    line-height: 1.5;
+}
+a{
+    /* si nada */
+    text-decoration: none;
+}
+h1{<
+    font-family:nota;
+    font-weight: 500;
+
+}
+
