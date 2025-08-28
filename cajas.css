@@ -1,0 +1,10 @@
+.enviar{
+    /* color caja */
+    background: red;
+    /* ancho */
+    width: 170px;
+    /* height = largo */
+}
+input{
+    background: blue;
+}

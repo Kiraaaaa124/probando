@@ -1,0 +1,22 @@
+.formulario{
+    /* color de la caja */
+background: red;
+/* separacion de relleno y bordes */
+/* top = arriba */
+/* bottom = abajo */
+/* izquierda y derecha */
+padding: 30px;
+}
+.formularioinput{
+    padding: 6px 10px;
+    width: 90%;
+    background: black;
+    /* mergen distancia de cajas */
+    margin: 10px;
+}
+.form_submit{
+background: white;
+color:rgb(100,150,40);
+text-transform:uppercase;
+width: 50%;
+}

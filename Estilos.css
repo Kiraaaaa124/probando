@@ -1,9 +1,9 @@
 .primero{
-    color: red;
+    color: rgb(20,54,50);
     /* letra */
     font-family:play;
     /* tamaño */
-    font-size: 19px;
+    font-size: 16px;
     /* tipografia */
     font-weight: 100;
     /* letra_inplinada */
@@ -12,6 +12,8 @@
     text-align: justify;
     /* espacio */
     line-height: 1.5;
+    /* espacio pero entre letras */
+    letter-spacing:normal;
     /* minuscula_mayuscula */
     text-transform: capitalize;
 }
@@ -22,11 +24,13 @@
 }
 a{
     /* si nada */
+    /* tachado/subrayado */
     text-decoration: none;
 }
-h1{<
+h1{
     font-family:nota;
     font-weight: 500;
 
 }
+/* cajas */
 
